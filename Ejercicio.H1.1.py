@@ -4,10 +4,7 @@ asterisco=" * "
 
 while True:
 
-   print("MENÚ")
-   print("1.- Cuadrado")
-   print("2.- Rectángulo")
-   print("3.- Salir")
+   print("MENÚ\n1.- Cuadrado\n2.- Rectángulo\n3.- Salir\n")
 
    Figura= int(input("Dime qué figura deseas seleccionar"))
    if Figura== 1:
